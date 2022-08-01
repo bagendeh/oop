@@ -1,3 +1,5 @@
 belajar oop dan git
 
-dari linux
+dari linux ubuntu
+
+tolong di update
